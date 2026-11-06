@@ -1,4 +1,4 @@
-# Trabalho em Equipe — Requisitos e Arquitetura de um Sistema
+# Trabalho Individual — Requisitos e Arquitetura de um Sistema
 **Disciplina:** Projetos de Sistemas  
 **Instituição:** Centro Universitário de Ensino Superior do Amazonas — CIESA  
 
