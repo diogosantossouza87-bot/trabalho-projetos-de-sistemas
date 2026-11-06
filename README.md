@@ -1,6 +1,7 @@
 # Trabalho Individual — Requisitos e Arquitetura de um Sistema
 **Disciplina:** Projetos de Sistemas  
-**Instituição:** Centro Universitário de Ensino Superior do Amazonas — CIESA  
+**Instituição:** Centro Universitário de Ensino Superior do Amazonas — CIESA 
+**Aluno:** Diogo Dos Santos De Souza
 
 ## 1. Visão Geral
 
