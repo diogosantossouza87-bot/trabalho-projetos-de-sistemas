@@ -1,9 +1,5 @@
  # 🏖️ Manaus Beach Point — Sistema de Gestão e Reserva de Quadras
 
-![Status](https://shields.io)
-![Stack](https://shields.io)
-![Cloud](https://shields.io)
-
 Plataforma web responsiva para agendamento online, pagamento integrado (Pix e Cartão de Crédito) e gestão operacional de quadras de *Beach Tennis* em Manaus/AM.
 
 ---
